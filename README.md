@@ -24,7 +24,3 @@ The main objectives of this project are:
 - **MySQL**
 - **MySQL Workbench**
 - **SQL**
-
-    ├── 01_data_cleaning.sql
-    ├── 02_data_transformation.sql
-    └── 03_analysis.sql
